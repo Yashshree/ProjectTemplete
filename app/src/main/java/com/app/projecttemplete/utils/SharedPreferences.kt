@@ -48,16 +48,5 @@ abstract class SharedPreferenceUtil {
 
     }
 
-/*
-    companion object {
-        var INSTANCE : android.content.SharedPreferences?=null
-    }
-
-    fun getSharedPreferencesInstance(context:Context):SharedPreferences? {
-        if(INSTANCE==null)
-        INSTANCE=
-        return INSTANCE
-    }*/
-
 
 }
